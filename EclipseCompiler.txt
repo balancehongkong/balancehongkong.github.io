@@ -1,0 +1,8 @@
+12 Oct 2018 16:32:54 GMT: Log 'EclipseCompiler.txt' opened: 12 Oct 2018 16:32:54 GMT with name C:\Users\miche\Documents\GitHub\pgstuco.github.io\EclipseCompiler.txt
+12 Oct 2018 16:33:04 GMT: Log 'EclipseCompiler.txt' opened: 12 Oct 2018 16:33:04 GMT with name C:\Users\miche\Documents\GitHub\pgstuco.github.io\EclipseCompiler.txt
+12 Oct 2018 16:44:05 GMT: Log 'EclipseCompiler.txt' opened: 12 Oct 2018 16:44:05 GMT with name C:\Users\miche\Documents\GitHub\pgstuco.github.io\EclipseCompiler.txt
+27 Jan 2019 3:42:49 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2019 3:42:49 GMT with name C:\Users\miche\Documents\GitHub\balance.github.io\EclipseCompiler.txt
+27 Jan 2019 3:43:35 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2019 3:43:35 GMT with name C:\Users\miche\Documents\GitHub\balance.github.io\EclipseCompiler.txt
+27 Jan 2019 6:33:47 GMT: Log 'EclipseCompiler.txt' opened: 27 Jan 2019 6:33:47 GMT with name C:\Users\miche\Documents\GitHub\balance.github.io\EclipseCompiler.txt
+15 Feb 2019 11:43:38 GMT: Log 'EclipseCompiler.txt' opened: 15 Feb 2019 11:43:38 GMT with name C:\Users\miche\Documents\GitHub\balance.github.io\EclipseCompiler.txt
+15 Feb 2019 11:43:39 GMT: Log 'EclipseCompiler.txt' opened: 15 Feb 2019 11:43:39 GMT with name C:\Users\miche\Documents\GitHub\balance.github.io\EclipseCompiler.txt

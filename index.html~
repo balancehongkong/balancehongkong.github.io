@@ -1,0 +1,61 @@
+<html>
+ <head>
+ 
+  <title>Balance Hong Kong</title>
+  
+  <link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  
+  <link href="style.css" rel="stylesheet" type="text/css">
+  
+ </head>
+ 
+ <body>   
+ <header>
+  
+   <ul class="main-nav">
+    <li><a href="#home">HOME</a></li>
+    <li><a href="#about">ABOUT US</a></li>
+    <li><a href="team.html">OUR TEAM</a></li>
+    <li><a href="photo.html">EVENT</a></li>
+    <li><a href="#suggestions">SUGGESTIONS</a></li>
+   </ul>
+   </div>
+   </div>
+ 
+  </header>
+   
+   <div class="au">
+   <h3 class="text-center" id="about">ABOUT US</h3>
+   
+   <p class="about">
+Balance is a Hong Kong student organization with the mission to encourage gender equality and female empowerment by connecting pioneers of the past, present, and future and by supporting young trailblazers to lead our generation towards an equal future.
+
+Our International Women’s Day (IWD) Celebration aims to serve as a symbolic encouragement to individuals, both male and female alike, to become ambassadors of social change. We hope that participants will be inspired to further raise awareness about gender inequality, break gender stereotypes, and address the gender imbalance in career fields that encounter gender discrepancies.
+   </p>
+   </div>
+  </section>
+   
+   <div class="footer">
+   <div class="container" id="suggestions">
+    <h3 class="text-center">CONTACT US</h3>
+   <p> <br>Email: hongkongbalance@gmail.com <br>Facebook: https://www.facebook.com/balancehongkong/ <br> </p> 
+   </div>
+   </div>
+  
+   <div class="end">
+   <a href="https://www.facebook.com/balancehongkong/"  target="_blank">
+    <img src="img/facebook.png">
+   </a>
+   <a href=""  target="_blank">
+    <img src="img/linkedin.png">
+   </a>
+   
+   <p> <br>&#169 2019 Balance Hong Kong</br>
+   </div>
+   </div>
+    </section>
+
+ </body>
+</html>
